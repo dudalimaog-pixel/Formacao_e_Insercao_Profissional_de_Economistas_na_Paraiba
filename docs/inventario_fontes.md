@@ -21,7 +21,7 @@
 | INEP (cursos) | um curso de graduação de uma instituição, no ano | código do curso + ano; município de oferta | anual | DTB (município) |
 | PNAD Contínua | um domicílio/pessoa na amostra | UF + trimestre | trimestral | só contexto (nível UF) |
 | DTB | um município | código do município | ano de referência 2025 | RAIS, CAGED, INEP |
-| Corecon-PB | A PREENCHER | A PREENCHER | anual | A PREENCHER |
+| Corecon-PB | A definir | A definir | anual | A definir |
 
 **Atenção à chave de município:** RAIS e CAGED usam código de 6 dígitos; o INEP e a DTB trazem o código IBGE de 7 dígitos. Padronizar nos 6 primeiros dígitos (mesmo procedimento da Aula 08/09: `str[:6]`).
 
