@@ -16,7 +16,7 @@ Projeto aplicado de extensão — **PSAE00320 Técnicas de Pesquisa e Análise E
 
 - **Tema:** formação e inserção dos economistas no mercado de trabalho formal da Paraíba.
 - **Pergunta:** o que acontece com quem se forma em Ciências Econômicas no estado?
-- **Hipótese (ainda não confirmada):** possível descompasso entre o número de concluintes e a quantidade absorvida pelo mercado formal.
+- **Hipótese:** possível descompasso entre o número de concluintes e a quantidade absorvida pelo mercado formal.
 - **Decisão que o trabalho pode apoiar:** onde o Conselho concentra esforço junto a estudantes e recém-formados.
 
 ## Fontes de dados
