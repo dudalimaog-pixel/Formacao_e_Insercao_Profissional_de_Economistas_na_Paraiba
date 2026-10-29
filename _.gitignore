@@ -1,0 +1,21 @@
+# Dados originais (grandes ou não redistribuíveis): ver docs/plano_aquisicao.md
+data/raw/*
+!data/raw/.gitkeep
+
+# Credenciais e segredos
+.env
+*.key
+*.pem
+token*
+credentials*
+secrets*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
