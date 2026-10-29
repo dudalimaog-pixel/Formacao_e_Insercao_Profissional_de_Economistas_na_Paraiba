@@ -8,8 +8,9 @@ Projeto aplicado de extensão — **PSAE00320 Técnicas de Pesquisa e Análise E
 
 | Nome | Responsabilidade |
 |---|---|
-| A PREENCHER | A PREENCHER |
-| A PREENCHER | A PREENCHER |
+| Maria Eduarda Lima | Todas as etapas do projeto |
+| Ana Brambilla | Todas as etapas do projeto |
+| Julia Andrade | Todas as etapas do projeto |
 
 ## Problema
 
