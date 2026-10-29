@@ -4,7 +4,7 @@ Os dados originais **não são versionados** no Git. Cada fonte abaixo tem o pas
 
 | Fonte | Método de obtenção | Arquivo/endpoint | Frequência | Parâmetros | Responsável | Data prevista | Atualização |
 |---|---|---|---|---|---|---|---|
-| RAIS | download manual na página de microdados do MTE | arquivo da RAIS do ano (A PREENCHER) | anual | UF = 25 (Paraíba); filtrar CBO de economista | A PREENCHER | 05/11/2026 | baixar o novo ano quando publicado |
+| RAIS | download manual na página de microdados do MTE | arquivo da RAIS do ano https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/estatisticas-trabalho/microdados-rais-e-caged | anual | UF = 25 (Paraíba); filtrar CBO de economista | A PREENCHER | 05/11/2026 | baixar o novo ano quando publicado |
 | Novo CAGED | download manual na página de microdados do MTE | `CAGEDMOV<AAAAMM>.txt.gz` | mensal | `uf` = 25; filtrar CBO de economista; `sep=";"`, `decimal=","` | A PREENCHER |05/11/2026| baixar os meses novos |
 | Censo da Educação Superior | download manual na página de microdados do INEP | arquivo de cursos do Censo (A PREENCHER) | anual | UF/município da Paraíba; curso de Ciências Econômicas | A PREENCHER | 05/11/2026 | baixar o novo Censo quando publicado |
 | PNAD Contínua | download na página de microdados do IBGE | arquivo do trimestre + dicionário | trimestral | UF = Paraíba | A PREENCHER | 05/11/2026 | novo trimestre |
