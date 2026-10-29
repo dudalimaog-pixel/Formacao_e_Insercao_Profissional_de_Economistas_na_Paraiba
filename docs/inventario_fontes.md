@@ -10,7 +10,7 @@
 | Censo da Educação Superior | INEP — página de microdados https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior?utm_source=chatgpt.com | Brasil, anual; cursos, matrículas, ingressantes e concluintes | CSV | aberto | Domínio Público | 26/10/2026 |
 | PNAD Contínua | IBGE — página de microdados https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?utm_source=chatgpt.com | Brasil e UFs, trimestral; contexto do mercado de trabalho da PB | microdados em texto + dicionário | aberto | Domínio Público | 26/10/2026 |
 | DTB (tabela auxiliar) | IBGE — Divisão Territorial Brasileira 2025 https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorialbrasileira?utm_source=chatgpt.com | municípios do Brasil e regiões geográficas imediatas | `.xlsx` | aberto | Domínio Público | 26/10/2026 |
-| Corecon-PB | Corecon-PB (solicitação feita na escuta) | inscrições ativas e novos registros por ano | A definir | **ainda não obtida** | A definir | — |
+| Corecon-PB | Corecon-PB (solicitação feita na escuta) | inscrições ativas e novos registros por ano https://www.coreconpb.org.br/?utm_source=chatgpt.com | A definir | **ainda não obtida** | A definir | — |
 
 ## 2. Unidade, chave, periodicidade e junções
 
