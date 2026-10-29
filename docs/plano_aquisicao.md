@@ -9,7 +9,7 @@ Os dados originais **não são versionados** no Git. Cada fonte abaixo tem o pas
 | Censo da Educação Superior | download manual na página de microdados do INEP | arquivo de cursos do Censo https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior?utm_source=chatgpt.com | anual | UF/município da Paraíba; curso de Ciências Econômicas | Julia Andrade | 05/11/2026 | baixar o novo Censo quando publicado |
 | PNAD Contínua | download na página de microdados do IBGE| arquivo do trimestre + dicionário https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html?utm_source=chatgpt.com | trimestral | UF = Paraíba | Maria Eduarda Lima | 05/11/2026 | novo trimestre |
 | DTB | download na página da Divisão Territorial Brasileira (IBGE)[ ](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorialbrasileira?utm_source=chatgpt.com)| `RELATORIO_DTB_BRASIL_2025_MUNICIPIOS.xlsx`https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorialbrasileira?utm_source=chatgpt.com | anual | `skiprows=6` na leitura | Maria Eduarda Lima | 05/11/2026 | nova edição |
-| Corecon-PB | solicitação ao Conselho (sem acesso a dados em nome da UFPB) | 05/11/2026 | anual | inscrições ativas e novos registros por ano | A definir| 05/11/2026 | depende do Conselho |
+| Corecon-PB | solicitação ao Conselho (sem acesso a dados em nome da UFPB) | https://www.coreconpb.org.br/?utm_source=chatgpt.com | anual | inscrições ativas e novos registros por ano | A definir| 05/11/2026 | depende do Conselho |
 
 ## Procedimento de reprodução
 
